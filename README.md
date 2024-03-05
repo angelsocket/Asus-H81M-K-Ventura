@@ -1,3 +1,4 @@
+# ❗️ Obsolete
 # 👋 Hello! This is Hackintosh for Asus H81M-K
 ![Banner](Files/Banner.png)
 ## Hardware ⚙️
